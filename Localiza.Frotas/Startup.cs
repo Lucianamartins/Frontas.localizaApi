@@ -1,4 +1,4 @@
-using Localiza.Frotas.Domain;
+
 using Localizar.frotas;
 using Localizar.frotas.infra;
 using Localizar.frotas.infra.Ef;

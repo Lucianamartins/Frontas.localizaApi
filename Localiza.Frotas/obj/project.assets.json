@@ -1688,8 +1688,8 @@
     },
     "Localizar.Domain/1.0.0": {
       "type": "project",
-      "path": "../Localizar.frotas/Localizar.Domain.csproj",
-      "msbuildProject": "../Localizar.frotas/Localizar.Domain.csproj"
+      "path": "../Localizar.Domain/Localizar.Domain.csproj",
+      "msbuildProject": "../Localizar.Domain/Localizar.Domain.csproj"
     },
     "Localizar.frotas.infra/1.0.0": {
       "type": "project",
@@ -1701,7 +1701,6 @@
     "net5.0": [
       "Localizar.Domain >= 1.0.0",
       "Localizar.frotas.infra >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.InMemory >= 5.0.1",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "Swashbuckle.AspNetCore.SwaggerGen >= 6.2.3"
     ]
@@ -1762,10 +1761,6 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.InMemory": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.2.3, )"

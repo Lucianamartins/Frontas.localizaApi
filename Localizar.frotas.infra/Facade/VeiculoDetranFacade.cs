@@ -1,4 +1,4 @@
-﻿using Localiza.Frotas.Domain;
+﻿
 using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
