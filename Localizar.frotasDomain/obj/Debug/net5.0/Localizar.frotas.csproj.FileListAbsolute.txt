@@ -1,0 +1,11 @@
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\Localizar.frotas.deps.json
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\Localizar.frotas.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\ref\Localizar.frotas.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\Localizar.frotas.pdb
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.frotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.frotas.AssemblyInfoInputs.cache
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.frotas.AssemblyInfo.cs
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.frotas.csproj.CoreCompileInputs.cache
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.frotas.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\ref\Localizar.frotas.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.frotas.pdb

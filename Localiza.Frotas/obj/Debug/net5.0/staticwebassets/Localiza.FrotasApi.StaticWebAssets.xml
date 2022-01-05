@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localiza.Frotas\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Localizar.frotas.infra" Path="C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas.infra\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/Localizar.frotas.infra" Path="C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas.infra\wwwroot\" />
+</StaticWebAssets>

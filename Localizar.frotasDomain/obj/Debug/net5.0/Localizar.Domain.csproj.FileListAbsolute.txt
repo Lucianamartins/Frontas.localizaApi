@@ -1,0 +1,12 @@
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\Localizar.Domain.deps.json
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\Localizar.Domain.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\ref\Localizar.Domain.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\bin\Debug\net5.0\Localizar.Domain.pdb
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.Domain.AssemblyInfoInputs.cache
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.Domain.AssemblyInfo.cs
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.Domain.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\ref\Localizar.Domain.dll
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.Domain.pdb
+C:\Users\Luciana Martins\source\repos\Localiza.Frotas\Localizar.frotas\obj\Debug\net5.0\Localizar.Domain.csproj.AssemblyReference.cache
